@@ -1,3 +1,3 @@
 # StudentProject
  
-This my persoanl StudentProject
+This my personal StudentProject
